@@ -1,6 +1,6 @@
 # Face-generator
 
-## Convolutional generative adversial network
+## Convolutional Generative Adversarial Network
 
 ### Results in 72 epochs of 20000 images of celebA dataset
 
